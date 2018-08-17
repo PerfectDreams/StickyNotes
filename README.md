@@ -37,7 +37,7 @@ Qualquer opinião, ideia, crítica ou mudança sobre uma novidade/bug são bem v
 * Sugestões ou bugs enviados dentro do PerfectDreams serão repassados pela a equipe para os repositórios apropriados do PerfectDreams, caso a equipe ache que a sugestão/bug deve ser repassado para lá.
 * Sugestões ou bugs também podem ser enviados diretamente para os repositórios apropriados pelo GitHub.
 
-Para enviar, [clique aqui](https://github.com/PerfectDreams/StickyNotes/issues/new) e siga o nosso template!
+Para enviar, [clique aqui](https://github.com/PerfectDreams/StickyNotes/issues/new/choose) e siga o nosso template!
 
 **Caso você envie a sugestão em um lugar errado, nós iremos migrar ela para o local correto!**
 

@@ -11,6 +11,9 @@ Para manter tudo organizado, siga estes passos antes de começar:
 - [ ] Eu já verifiquei que não existe nenhuma outra branch ou pull request aberto corrigindo o meu problema.
 - [ ] Eu tentei procurar por [outros repositórios do PerfectDreams](https://github.com/PerfectDreams) um repositório relacionado com o meu problema, mas não encontrei.
 
+### 🎮 Seu nome no PerfectDreams
+*Loritta*
+
 ### 🐞 Descrição do problema
 *Qual foi o problema que você encontrou? Explique ele detalhadamente para que seja mais fácil de entender e corrigir ele.*
 
