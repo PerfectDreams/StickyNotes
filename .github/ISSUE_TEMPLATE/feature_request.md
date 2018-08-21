@@ -6,10 +6,10 @@ about: Sugestão para o PerfectDreams
 
 ## 🤔 Antes de enviar...
 Para manter tudo organizado, siga estes passos antes de começar:
-- [ ] Eu já confirmei que esta sugestão será útil para outros usuários.
-- [ ] Eu já procurei por sugestões parecidas no repositório.
-- [ ] Eu já verifiquei que não existe nenhuma outra branch ou pull request aberto com a minha sugestão ou com uma sugestão parecida.
-- [ ] Eu tentei procurar por [outros repositórios do PerfectDreams](https://github.com/PerfectDreams) um repositório relacionado com a minha sugestão, mas não encontrei/é uma sugestão sobre algo que não tem nada relacionado no servidor.
+* Eu já confirmei que esta sugestão será útil para outros usuários.
+* Eu já procurei por sugestões parecidas no repositório.
+* Eu já verifiquei que não existe nenhuma outra branch ou pull request aberto com a minha sugestão ou com uma sugestão parecida.
+* Eu tentei procurar por [outros repositórios do PerfectDreams](https://github.com/PerfectDreams) um repositório relacionado com a minha sugestão, mas não encontrei/é uma sugestão sobre algo que não tem nada relacionado no servidor.
 
 ### 🎮 Seu nome no PerfectDreams
 *Loritta*
