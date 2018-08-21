@@ -6,10 +6,10 @@ about: Bugs ou Problemas encontrados no PerfectDreams
 
 ## 🤔 Antes de reportar...
 Para manter tudo organizado, siga estes passos antes de começar:
-- [ ] Eu já confirmei que é realmente um problema.
-- [ ] Eu já procurei por bugs parecidos no repositório.
-- [ ] Eu já verifiquei que não existe nenhuma outra branch ou pull request aberto corrigindo o meu problema.
-- [ ] Eu tentei procurar por [outros repositórios do PerfectDreams](https://github.com/PerfectDreams) um repositório relacionado com o meu problema, mas não encontrei.
+* Eu já confirmei que é realmente um problema.
+* Eu já procurei por bugs parecidos no repositório.
+* Eu já verifiquei que não existe nenhuma outra branch ou pull request aberto corrigindo o meu problema.
+* Eu tentei procurar por [outros repositórios do PerfectDreams](https://github.com/PerfectDreams) um repositório relacionado com o meu problema, mas não encontrei.
 
 ### 🎮 Seu nome no PerfectDreams
 *Loritta*
